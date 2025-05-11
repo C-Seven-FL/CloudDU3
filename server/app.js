@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/transaction/list', (req, res) => {
-  res.send('TRANSACTION!')
+  res.send('testcode!')
 })
 
 app.listen(port, () => {

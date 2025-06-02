@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Runnings",
+    "date": "2024-05-12T22:50:00.342Z",
+    "id": "513b57689421c753",
+    "exerciseID": [
+      "3c7999a48e888796",
+      "ed16e623fe0a994f"
+    ]
+  },
+  {
+    "name": "Arm Day",
+    "date": "2024-11-08T22:50:00.342Z",
+    "notes": "Dipopopopopop",
+    "id": "aa4cad5e65cbab93",
+    "exerciseID": [
+      "26947c37e528984d",
+      "c88c41e888239f56"
+    ]
+  },
+  {
+    "name": "Leg day",
+    "date": "2024-09-08T22:50:00.342Z",
+    "id": "8a4c95a89504b7d1",
+    "exerciseID": []
+  }
+]
